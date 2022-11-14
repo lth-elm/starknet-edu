@@ -1,0 +1,1 @@
+0x029829cf23ea2b593d50afe7fc385eb6bdd745bed1b96852e5c8d20aac42662a:artifacts/abis/AllInOneContract.json:allInOne

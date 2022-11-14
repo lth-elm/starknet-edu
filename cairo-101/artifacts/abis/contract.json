@@ -1,0 +1,13 @@
+[
+    {
+        "inputs": [
+            {
+                "name": "ex01address",
+                "type": "felt"
+            }
+        ],
+        "name": "ex01",
+        "outputs": [],
+        "type": "function"
+    }
+]

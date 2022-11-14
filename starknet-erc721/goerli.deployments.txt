@@ -1,0 +1,1 @@
+0x048c25b6f146bfe74db974ace58f1b6e0141cf9ea183472382c63f937f863793:artifacts/abis/ExerciceSolution.json:exSolution
